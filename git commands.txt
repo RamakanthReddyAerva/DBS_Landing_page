@@ -1,0 +1,13 @@
+2 git
+   3 git init
+   4 git add .
+   5 git status
+   6 git commit -m "Login page"
+   7  git config --global user.email "ramakanthreddie@gmail.com"...
+   8 git commit -m "Login page"
+   9 git remote add origin https://github.com/RamakanthReddyAerva/DBS_Landing_page.git...
+  10 git remote add origin https://github.com/RamakanthReddyAerva/DBS_Landing_page.git...
+  11 git status
+  12 git add .
+  13 git commit -m "Modified indx.html"
+  14 git push origin main

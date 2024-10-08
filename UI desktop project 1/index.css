@@ -5,7 +5,7 @@ padding: 0;
 .back-to-dbs0{
     background: #303C44;
     height: 40px;
-    width: 1263px;
+     
 }
 .back-to-dbs{
     font:inherit;
@@ -18,7 +18,7 @@ padding: 0;
 }
 .navbar{
     height: 48px;
-    width: 1263px;
+    
     align-content: center;
 }
 .navbar ul {
@@ -47,7 +47,7 @@ padding: 0;
     padding: 8px 24px 16px 48px;
 }
 .pagetitle{
-    width: 1260px;
+   
     height: 304px; 
     background-image: url(images/1263.jpg);
     color: white;
@@ -86,7 +86,7 @@ h1{
 }
 .usp0{
     border-bottom: 1px solid #858F96;
-    width: 1263px;
+    
 }
 .line1,
 .line2,
@@ -739,7 +739,7 @@ h3{
 .grey{
     padding-top: 80px;
     padding-bottom: 80px;
-    width: 1262px;
+   
     padding-top: 80px;
     padding-bottom: 80px;
     margin-left: -141px;
